@@ -1,4 +1,4 @@
-📊 Coffee Shop Sales Dashboard – MySQL + Power BI
+# 📊 Coffee Shop Sales Dashboard – MySQL + Power BI
 
 This project demonstrates the end-to-end process of building a Sales Dashboard for a Coffee Shop Chain using MySQL for data analysis and Power BI for interactive visualizations.
 
